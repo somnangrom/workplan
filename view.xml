@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_sim_sim,access.sim.sim,model_sim_sim,base.group_user,1,1,1,0
